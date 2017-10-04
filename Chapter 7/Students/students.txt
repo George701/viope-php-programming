@@ -1,0 +1,3 @@
+1234|Sally Student|1
+4321|Larry Learner|0
+7364|Hannah Hardworking|1
